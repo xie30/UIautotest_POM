@@ -1,3 +1,3 @@
-# UIautotest_po
+# UIautotest_pom
 ui自动化测试
-page object设计模式
+Page Object Models
